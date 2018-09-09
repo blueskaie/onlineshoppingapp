@@ -1,0 +1,9 @@
+1: install python 3.5+
+
+2: install necessary packages for this project
+pip install beautifulsoup4
+pip install lxml
+pip install pillow
+
+3: run this programe
+python main.py
